@@ -1,0 +1,87 @@
+{
+  "storeName": "Pottering Lane Garden Co.",
+  "type": "html",
+  "pagesGlob": "**/*.html",
+  "scanGlobs": [
+    "**/*.html",
+    "assets/css/*.css",
+    "assets/js/*.js",
+    "robots.txt",
+    "sitemap.xml"
+  ],
+  "expectedPages": [
+    "index.html",
+    "shop.html",
+    "cart.html",
+    "checkout.html",
+    "about.html",
+    "contact.html",
+    "faq.html",
+    "credits.html",
+    "404.html",
+    "policies/privacy.html",
+    "policies/terms.html",
+    "policies/refund-returns.html",
+    "policies/shipping.html",
+    "policies/accessibility.html",
+    "products/kneelwell-folding-garden-kneeler-seat.html",
+    "products/easygrip-hand-tool-set-4-piece.html",
+    "products/larkspur-raised-planter-30-inch.html",
+    "products/hollycreek-hummingbird-feeder.html",
+    "products/clearmark-rain-gauge-6-inch-dial.html",
+    "products/brookhat-wide-brim-sun-hat.html",
+    "products/featherline-expandable-garden-hose-50ft.html",
+    "products/pottering-lane-long-handled-weeder.html",
+    "products/seedstart-windowsill-propagator-tray.html",
+    "products/barrowlite-two-wheel-garden-cart.html",
+    "products/thistleguard-coated-garden-gloves-2-pair.html",
+    "products/dawnbell-watering-can-1-5-gallon.html",
+    "robots.txt",
+    "sitemap.xml",
+    "favicon.svg"
+  ],
+  "business": {
+    "legalName": "Pottering Lane Garden Co.",
+    "address": "715 Hollis Creek Road, Unit B, Asheville, NC 28801",
+    "email": "hello@potteringlane.com",
+    "phone": "(828) 555-0167",
+    "hours": "Mon–Fri, 8:30 AM–5:30 PM ET; Sat, 9:00 AM–1:00 PM ET",
+    "effectiveDate": "August 18, 2026",
+    "siteUrl": "https://www.potteringlane.com"
+  },
+  "terms": {
+    "returnWindow": "45 days",
+    "freeShippingOver": "$75",
+    "standardShipping": "$7.95",
+    "processing": "1–3 business days",
+    "delivery": "5–8 business days",
+    "expedited": "$16.95"
+  },
+  "footerRequired": [
+    "address",
+    "email",
+    "phone"
+  ],
+  "termPages": [
+    "policies/refund-returns.html",
+    "policies/shipping.html",
+    "faq.html"
+  ],
+  "allow": [
+    "no customer reviews yet",
+    "reviews and testimonials",
+    "we do not buy, incentivise or write",
+    "we will not publish a review",
+    "there are no star ratings",
+    "testimonial or a review without asking",
+    "we do not use placeholder text as a label",
+    "we do not use &ldquo;best&rdquo;",
+    "have not won anything and neither has the trowel",
+    "medical outcomes or treatment"
+  ],
+  "_allow_note": "Each entry is a line of copy that states what this shop does NOT do. The scanner matches the forbidden word inside a disclaimer of that word; the copy itself is the opposite of a violation. Nothing here silences a real finding.",
+  "catalogueSources": {
+    "data": "_generator/data/products.js",
+    "runtime": "assets/js/main.js"
+  }
+}

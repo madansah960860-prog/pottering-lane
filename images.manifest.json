@@ -1,0 +1,186 @@
+{
+  "store": "02-pottering-lane",
+  "storeName": "Pottering Lane Garden Co.",
+  "outDir": "assets/images",
+  "width": 1200,
+  "aspect": "4:3",
+  "quality": 78,
+  "fallbackPalette": [
+    "#5E7B55",
+    "#E4DECF",
+    "#B0512F"
+  ],
+  "_note": "Every image is pinned to an exact Wikimedia Commons file so the build is reproducible: an automated pick drifts between runs as categories change. queries/commonsCategories remain as a fallback if a pinned file is ever deleted.",
+  "items": [
+    {
+      "slug": "hero",
+      "commonsFile": "Mr Fothergill's Garden flower bed Capel Manor College Gardens Enfield London England",
+      "queries": [
+        "garden flower bed",
+        "garden bed"
+      ],
+      "query": "garden flower bed",
+      "alt": "A planted flower bed in a summer garden."
+    },
+    {
+      "slug": "cat-kneel",
+      "commonsFile": "Garden bench seat Gibberd Garden Harlow Essex England 01",
+      "queries": [
+        "kneeling pad",
+        "garden kneeler"
+      ],
+      "query": "kneeling pad",
+      "alt": "A wooden garden seat beside a planted border."
+    },
+    {
+      "slug": "cat-tools",
+      "commonsFile": "Hoe2",
+      "queries": [
+        "gardening tools",
+        "garden tools"
+      ],
+      "query": "gardening tools",
+      "alt": "A long-handled garden tool resting on grass."
+    },
+    {
+      "slug": "cat-beds",
+      "commonsFile": "Raised vegetable bed 3",
+      "queries": [
+        "raised vegetable bed",
+        "raised bed"
+      ],
+      "query": "raised vegetable bed",
+      "alt": "A raised vegetable bed planted and growing."
+    },
+    {
+      "slug": "cat-water",
+      "commonsFile": "Decorative Watering Can (6320010953)",
+      "queries": [
+        "watering can",
+        "watering"
+      ],
+      "query": "watering can",
+      "alt": "A watering can standing beside a garden bed."
+    },
+    {
+      "slug": "plg-201",
+      "commonsFile": "Kneeling pad 01",
+      "queries": [
+        "garden bench seat",
+        "garden seat"
+      ],
+      "query": "garden bench seat",
+      "alt": "A padded kneeling pad for working at ground level."
+    },
+    {
+      "slug": "plg-202",
+      "commonsFile": "Gardening tools",
+      "queries": [
+        "trowel",
+        "garden trowel"
+      ],
+      "query": "trowel",
+      "alt": "A set of garden hand tools with moulded grips."
+    },
+    {
+      "slug": "plg-203",
+      "commonsFile": "Raised vegetable bed 1",
+      "queries": [
+        "raised vegetable bed",
+        "raised planter"
+      ],
+      "query": "raised vegetable bed",
+      "alt": "A timber raised bed planted with vegetables."
+    },
+    {
+      "slug": "plg-204",
+      "commonsFile": "The Village Hub Woodside hummingbird feeder with hummingbird",
+      "queries": [
+        "hummingbird feeder",
+        "bird feeder"
+      ],
+      "query": "hummingbird feeder",
+      "alt": "A hummingbird feeder hanging in a garden with a hummingbird at the port."
+    },
+    {
+      "slug": "plg-205",
+      "commonsFile": "Rain recorded in a rain gauge",
+      "queries": [
+        "rain gauge",
+        "rain gauge garden"
+      ],
+      "query": "rain gauge",
+      "alt": "A rain gauge with rainfall collected in the measuring tube."
+    },
+    {
+      "slug": "plg-206",
+      "commonsFile": "A gardener wearing a straw hat and a light coat",
+      "queries": [
+        "straw hat",
+        "sun hat"
+      ],
+      "query": "straw hat",
+      "alt": "A gardener wearing a wide-brimmed straw sun hat."
+    },
+    {
+      "slug": "plg-207",
+      "commonsFile": "Gardenhose",
+      "queries": [
+        "garden hose",
+        "hose"
+      ],
+      "query": "garden hose",
+      "alt": "A coiled garden hose."
+    },
+    {
+      "slug": "plg-208",
+      "commonsFile": "Kington 21 - antique garden tools",
+      "queries": [
+        "garden hoe",
+        "weeding hoe"
+      ],
+      "query": "garden hoe",
+      "alt": "Long-handled garden tools standing against a wall."
+    },
+    {
+      "slug": "plg-209",
+      "commonsFile": "Seedlings of Aegle marmelos (11745)",
+      "queries": [
+        "seedlings tray",
+        "seedlings"
+      ],
+      "query": "seedlings tray",
+      "alt": "Young seedlings growing in a tray of cells."
+    },
+    {
+      "slug": "plg-210",
+      "commonsFile": "Wheelbarrow at Baldah garden",
+      "queries": [
+        "wheelbarrow garden",
+        "wheelbarrow"
+      ],
+      "query": "wheelbarrow garden",
+      "alt": "A garden barrow standing on a path."
+    },
+    {
+      "slug": "plg-211",
+      "commonsFile": "My trusty gardening gloves & secateurs which need a good clean",
+      "queries": [
+        "gardening gloves",
+        "garden gloves"
+      ],
+      "query": "gardening gloves",
+      "alt": "A pair of well-used gardening gloves."
+    },
+    {
+      "slug": "plg-212",
+      "commonsFile": "Bright red watering can rests on dry soil next to a green plant in a sunny garden",
+      "queries": [
+        "watering can garden",
+        "watering can"
+      ],
+      "query": "watering can garden",
+      "alt": "A metal watering can standing on soil beside a plant."
+    }
+  ]
+}

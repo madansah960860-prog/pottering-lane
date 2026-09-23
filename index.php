@@ -1,0 +1,364 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pottering Lane Garden Co. — easy gardening tools and equipment</title>
+<meta name="description" content="Kneeler seats, long-handled tools, raised planters and light hoses, described by reach and weight. Free US shipping over $75 and 45 days returns.">
+<link rel="canonical" href="https://www.potteringlane.com/index.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Pottering Lane Garden Co.">
+<meta property="og:title" content="Pottering Lane Garden Co. — easy gardening tools and equipment">
+<meta property="og:description" content="Kneeler seats, long-handled tools, raised planters and light hoses, described by reach and weight. Free US shipping over $75 and 45 days returns.">
+<meta property="og:url" content="https://www.potteringlane.com/index.html">
+<meta property="og:image" content="https://www.potteringlane.com/assets/images/hero.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Pottering Lane Garden Co. — easy gardening tools and equipment">
+<meta name="twitter:description" content="Kneeler seats, long-handled tools, raised planters and light hoses, described by reach and weight. Free US shipping over $75 and 45 days returns.">
+<meta name="theme-color" content="#3C5236">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style"
+  href="https://fonts.googleapis.com/css2?family=Lora:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap"
+  onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Lora:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap"></noscript>
+<link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+<header class="pl-head">
+  <div class="pl-head__strip">
+    <div class="wrap pl-head__strip-inner">
+      <p>Free standard shipping on US orders over $75 · 45 days returns</p>
+      <p>Questions? <a href="tel:+18285550167">(828) 555-0167</a> · Mon–Fri, 8:30 AM–5:30 PM ET; Sat, 9:00 AM–1:00 PM ET</p>
+    </div>
+  </div>
+
+  <div class="wrap pl-head__inner">
+    <button class="pl-menu" type="button" aria-expanded="false" aria-controls="sitenav">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>
+      <span class="pl-menu__label">Menu</span>
+    </button>
+
+    <nav class="pl-nav pl-nav--split" id="sitenav" aria-label="Main">
+      <ul class="pl-nav__list pl-nav__list--left"><li><a class="pl-nav__link is-current" aria-current="page" href="/index.html">Home</a></li><li><a class="pl-nav__link" href="/shop.html">Shop</a></li><li><a class="pl-nav__link" href="/about.html">About us</a></li></ul>
+
+      <a class="pl-logo" href="/index.html">
+        <svg class="pl-logo__mark" viewBox="0 0 40 40" aria-hidden="true" focusable="false">
+<path d="M6 34C6 20 14 10 34 7c-1 20-12 28-28 27z" fill="#5E7B55"/>
+<path d="M7 35C14 27 22 21 30 17" stroke="#B0512F" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+</svg>
+        <span class="pl-logo__text">Pottering&nbsp;Lane<span>Garden Co.</span></span>
+      </a>
+
+      <ul class="pl-nav__list pl-nav__list--right"><li><a class="pl-nav__link" href="/faq.html">FAQ</a></li><li><a class="pl-nav__link" href="/contact.html">Contact</a></li><li><a class="pl-nav__link" href="/cart.html">Cart</a></li>
+        <li class="pl-nav__cartcount"><span data-cart-count aria-live="polite">0 items</span></li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="pl-chiprail">
+  <div class="wrap">
+    <ul class="pl-chiprail__list">
+      <li><a class="pl-chip" href="/shop.html">All products</a></li>
+      <li><a class="pl-chip" href="/shop.html?category=sit-and-kneel">Sit &amp; Kneel</a></li><li><a class="pl-chip" href="/shop.html?category=tools-in-hand">Tools in Hand</a></li><li><a class="pl-chip" href="/shop.html?category=beds-and-pots">Beds &amp; Pots</a></li><li><a class="pl-chip" href="/shop.html?category=watching-and-watering">Watching &amp; Watering</a></li>
+    </ul>
+  </div>
+</div>
+</header>
+<main id="main">
+
+<section class="pl-hero">
+  <div class="pl-hero__media">
+    <img
+  src="/assets/images/hero.webp"
+  srcset="/assets/images/hero-600.webp 600w, /assets/images/hero.webp 1200w"
+  sizes="(max-width: 860px) 100vw, 50vw"
+  alt="A garden bed in summer with tools resting beside it." width="1200" height="900"
+  loading="eager" decoding="async" fetchpriority="high">
+  </div>
+  <div class="pl-hero__panel">
+    <svg class="pl-hero__lineart" viewBox="0 0 300 420" aria-hidden="true" focusable="false">
+<path d="M150 420C150 320 120 250 150 150C170 88 190 52 186 8" stroke="#5E7B55" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M152 330c-34 4-58-14-66-46 34-6 58 12 66 46z" fill="none" stroke="#5E7B55" stroke-width="2.4"/>
+<path d="M150 268c34 4 58-14 66-46-34-6-58 12-66 46z" fill="none" stroke="#5E7B55" stroke-width="2.4"/>
+<path d="M156 206c-34 4-58-14-66-46 34-6 58 12 66 46z" fill="none" stroke="#5E7B55" stroke-width="2.4"/>
+<path d="M164 148c34 4 58-14 66-46-34-6-58 12-66 46z" fill="none" stroke="#5E7B55" stroke-width="2.4"/>
+<circle cx="186" cy="40" r="15" fill="none" stroke="#B0512F" stroke-width="2.4"/>
+<circle cx="186" cy="40" r="5" fill="#B0512F"/>
+</svg>
+    <div class="pl-hero__text">
+      <p class="pl-eyebrow">Easy gardening</p>
+      <h1>The garden did not get harder. The tools just never changed.</h1>
+      <p class="lede">We stock the long handle, the fat grip, the raised bed and the seat that flips
+      over — and we print the reach and the weight of every one of them, because that is what decides
+      whether you can use it.</p>
+      <p class="pl-hero__actions">
+        <a class="pl-btn pl-btn--solid" href="/shop.html">Shop all 12 products</a>
+        <a class="pl-btn" href="/about.html">Why we started</a>
+      </p>
+      <ul class="pl-hero__facts">
+        <li>Free standard shipping over $75</li>
+        <li>45 days to change your mind</li>
+        <li>Order by phone on (828) 555-0167</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <h2 class="pl-h2">Four corners of the garden</h2><p class="lede">Twelve things, grouped by the job rather than the aisle.</p>
+    <ul class="pl-cats">
+      <li><a class="pl-cat" href="/shop.html?category=sit-and-kneel">
+        <img
+  src="/assets/images/cat-kneel.webp"
+  srcset="/assets/images/cat-kneel-600.webp 600w, /assets/images/cat-kneel.webp 1200w"
+  sizes="(max-width: 700px) 92vw, 24vw"
+  alt="A padded folding kneeler seat on a garden path." width="1200" height="900"
+  loading="lazy" decoding="async">
+        <h3>Sit &amp; Kneel</h3><p>Get down to the bed and back up again without a debate about it.</p></a></li><li><a class="pl-cat" href="/shop.html?category=tools-in-hand">
+        <img
+  src="/assets/images/cat-tools.webp"
+  srcset="/assets/images/cat-tools-600.webp 600w, /assets/images/cat-tools.webp 1200w"
+  sizes="(max-width: 700px) 92vw, 24vw"
+  alt="Garden hand tools with wooden handles laid out on a bench." width="1200" height="900"
+  loading="lazy" decoding="async">
+        <h3>Tools in Hand</h3><p>Long handles, fat grips, and steel that keeps an edge.</p></a></li><li><a class="pl-cat" href="/shop.html?category=beds-and-pots">
+        <img
+  src="/assets/images/cat-beds.webp"
+  srcset="/assets/images/cat-beds-600.webp 600w, /assets/images/cat-beds.webp 1200w"
+  sizes="(max-width: 700px) 92vw, 24vw"
+  alt="A raised wooden planter box filled with growing plants." width="1200" height="900"
+  loading="lazy" decoding="async">
+        <h3>Beds &amp; Pots</h3><p>Raised, waist-high and reachable from a chair.</p></a></li><li><a class="pl-cat" href="/shop.html?category=watching-and-watering">
+        <img
+  src="/assets/images/cat-water.webp"
+  srcset="/assets/images/cat-water-600.webp 600w, /assets/images/cat-water.webp 1200w"
+  sizes="(max-width: 700px) 92vw, 24vw"
+  alt="A watering can beside a garden bed." width="1200" height="900"
+  loading="lazy" decoding="async">
+        <h3>Watching &amp; Watering</h3><p>Feeders, gauges and hoses light enough to carry one-handed.</p></a></li>
+    </ul>
+  </div>
+</section>
+
+<section class="section section--tint">
+  <div class="wrap">
+    <h2 class="pl-h2">Where most people start</h2><p class="lede">Four that get asked about more than the rest.</p>
+    <ul class="pl-grid"><li class="pl-card">
+  <div class="pl-card__media">
+    <a href="/products/kneelwell-folding-garden-kneeler-seat.html" tabindex="-1" aria-hidden="true">
+      <img
+  src="/assets/images/plg-201.webp"
+  srcset="/assets/images/plg-201-600.webp 600w, /assets/images/plg-201.webp 1200w"
+  sizes="(max-width: 600px) 92vw, (max-width: 1000px) 46vw, 272px"
+  alt="A padded folding garden kneeler seat with tubular steel side handles." width="1200" height="900"
+  loading="lazy" decoding="async">
+    </a>
+    <span class="pl-card__chip">Sit &amp; Kneel</span>
+  </div>
+  <div class="pl-card__body">
+    <h3 class="pl-card__name"><a href="/products/kneelwell-folding-garden-kneeler-seat.html">Kneelwell Folding Garden Kneeler Seat</a></h3>
+    <p class="pl-card__summary">Turn it one way to kneel on, turn it over to sit on. Two heights, one frame.</p>
+    <p class="pl-card__meta"><span class="pl-card__price">$58.00</span>
+      <span class="pl-card__stock">In stock</span></p>
+    <button class="pl-btn pl-btn--block" type="button" data-add="PLG-201">
+      Add to cart<span class="visually-hidden">: Kneelwell Folding Garden Kneeler Seat</span>
+    </button>
+  </div>
+</li>
+<li class="pl-card">
+  <div class="pl-card__media">
+    <a href="/products/pottering-lane-long-handled-weeder.html" tabindex="-1" aria-hidden="true">
+      <img
+  src="/assets/images/plg-208.webp"
+  srcset="/assets/images/plg-208-600.webp 600w, /assets/images/plg-208.webp 1200w"
+  sizes="(max-width: 600px) 92vw, (max-width: 1000px) 46vw, 272px"
+  alt="A long-handled weeding tool with a foot plate and forked head." width="1200" height="900"
+  loading="lazy" decoding="async">
+    </a>
+    <span class="pl-card__chip">Tools in Hand</span>
+  </div>
+  <div class="pl-card__body">
+    <h3 class="pl-card__name"><a href="/products/pottering-lane-long-handled-weeder.html">Pottering Lane Long-Handled Weeder</a></h3>
+    <p class="pl-card__summary">Pull a dandelion out of the lawn standing up, using your foot instead of your back.</p>
+    <p class="pl-card__meta"><span class="pl-card__price">$38.00</span>
+      <span class="pl-card__stock">In stock</span></p>
+    <button class="pl-btn pl-btn--block" type="button" data-add="PLG-208">
+      Add to cart<span class="visually-hidden">: Pottering Lane Long-Handled Weeder</span>
+    </button>
+  </div>
+</li>
+<li class="pl-card">
+  <div class="pl-card__media">
+    <a href="/products/larkspur-raised-planter-30-inch.html" tabindex="-1" aria-hidden="true">
+      <img
+  src="/assets/images/plg-203.webp"
+  srcset="/assets/images/plg-203-600.webp 600w, /assets/images/plg-203.webp 1200w"
+  sizes="(max-width: 600px) 92vw, (max-width: 1000px) 46vw, 272px"
+  alt="A raised wooden planter box on legs, filled with soil and plants." width="1200" height="900"
+  loading="lazy" decoding="async">
+    </a>
+    <span class="pl-card__chip">Beds &amp; Pots</span>
+  </div>
+  <div class="pl-card__body">
+    <h3 class="pl-card__name"><a href="/products/larkspur-raised-planter-30-inch.html">Larkspur Raised Planter, 30 inch</a></h3>
+    <p class="pl-card__summary">A waist-high bed on legs — 30 inches to the rim, with a shelf underneath.</p>
+    <p class="pl-card__meta"><span class="pl-card__price">$129.00</span>
+      <span class="pl-card__stock">In stock</span></p>
+    <button class="pl-btn pl-btn--block" type="button" data-add="PLG-203">
+      Add to cart<span class="visually-hidden">: Larkspur Raised Planter, 30 inch</span>
+    </button>
+  </div>
+</li>
+<li class="pl-card">
+  <div class="pl-card__media">
+    <a href="/products/dawnbell-watering-can-1-5-gallon.html" tabindex="-1" aria-hidden="true">
+      <img
+  src="/assets/images/plg-212.webp"
+  srcset="/assets/images/plg-212-600.webp 600w, /assets/images/plg-212.webp 1200w"
+  sizes="(max-width: 600px) 92vw, (max-width: 1000px) 46vw, 272px"
+  alt="A metal watering can with a long spout and a two-handle design." width="1200" height="900"
+  loading="lazy" decoding="async">
+    </a>
+    <span class="pl-card__chip">Watching &amp; Watering</span>
+  </div>
+  <div class="pl-card__body">
+    <h3 class="pl-card__name"><a href="/products/dawnbell-watering-can-1-5-gallon.html">Dawnbell Watering Can, 1.5 Gallon</a></h3>
+    <p class="pl-card__summary">Two handles — one over the top, one at the back — so a full can can be carried level.</p>
+    <p class="pl-card__meta"><span class="pl-card__price">$34.00</span>
+      <span class="pl-card__stock">In stock</span></p>
+    <button class="pl-btn pl-btn--block" type="button" data-add="PLG-212">
+      Add to cart<span class="visually-hidden">: Dawnbell Watering Can, 1.5 Gallon</span>
+    </button>
+  </div>
+</li></ul>
+    <p class="pl-more"><a class="pl-btn" href="/shop.html">See the whole shop</a></p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <h2 class="pl-h2">Why shop with us</h2><p class="lede">Four plain facts. Every one is repeated, word for word, in our policies.</p>
+    <ul class="pl-why"><li>
+  <svg class="pl-why__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"
+       fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 7h11v9H2zM13 10h4.5L21 13.5V16h-8z"/><circle cx="6.5" cy="18" r="1.8"/><circle cx="17.5" cy="18" r="1.8"/></svg>
+  <h3>We ship in 1–3 business days</h3>
+  <p>Standard shipping is $7.95 and free over $75. It arrives in 5–8 business days after it ships.</p>
+</li><li>
+  <svg class="pl-why__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"
+       fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10h11a5 5 0 0 1 0 10H9"/><path d="M8 6l-4 4 4 4"/></svg>
+  <h3>45 days to return it</h3>
+  <p>Unused and in its packaging, send it back within 45 days of delivery. Refunds land in 5–10 business days after we inspect it.</p>
+</li><li>
+  <svg class="pl-why__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"
+       fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h4l1.5 4-2 1.5a12 12 0 0 0 6 6L16 13.5 20 15v4a1 1 0 0 1-1 1A16 16 0 0 1 4 5a1 1 0 0 1 1-1z"/></svg>
+  <h3>A phone number that works</h3>
+  <p>(828) 555-0167, Mon–Fri, 8:30 AM–5:30 PM ET; Sat, 9:00 AM–1:00 PM ET. If you would rather order by phone than online, that is fine with us.</p>
+</li><li>
+  <svg class="pl-why__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"
+       fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 7V5h16v2M12 5v14M9 19h6"/></svg>
+  <h3>Type you can read</h3>
+  <p>This site is set at 18px with high contrast, large buttons and printed labels on every control. It is built to WCAG 2.1 AA.</p>
+</li></ul>
+  </div>
+</section>
+
+<section class="pl-news" aria-labelledby="news-h">
+  <div class="wrap pl-news__inner">
+    <div>
+      <h2 id="news-h">Notes from the lane</h2>
+      <p>One email a month: what has come in, what is worth sowing now, and the occasional
+         note about keeping tools sharp. Nothing else.</p>
+    </div>
+    <form class="pl-news__form" data-newsletter novalidate>
+      <div class="pl-field">
+        <label for="news-email">Your email address</label>
+        <input id="news-email" name="email" type="email" autocomplete="email"
+               aria-describedby="news-consent" required>
+      </div>
+      <button class="pl-btn pl-btn--solid" type="submit">Sign up</button>
+      <p class="pl-consent">
+        <label>
+          <input type="checkbox" name="consent" data-consent>
+          <span id="news-consent">Yes, Pottering Lane Garden Co. may email me its monthly newsletter
+          about products and shop news. I can unsubscribe from the link in any message or by emailing
+          hello@potteringlane.com, and my address will not be sold or shared. See the
+          <a href="/policies/privacy.html">Privacy Policy</a>.</span>
+        </label>
+      </p>
+      <p class="pl-formnote" data-newsletter-note role="status"></p>
+    </form>
+  </div>
+</section>
+
+</main>
+<footer class="pl-footer">
+  <svg class="pl-divider" viewBox="0 0 240 24" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+<path d="M0 12h72M168 12h72" stroke="#B0512F" stroke-width="1.5"/>
+<path d="M104 12c0-7 6-11 16-11-1 7-7 11-16 11zM136 12c0 7-6 11-16 11 1-7 7-11 16-11z" fill="#5E7B55"/>
+</svg>
+  <div class="wrap pl-footer__cols">
+    <div class="pl-footer__brand">
+      <p class="pl-footer__name">Pottering Lane Garden Co.</p>
+      <p class="pl-footer__tag">Garden tools for people who would rather sit down to weed</p>
+      <address>
+        <strong>Pottering Lane Garden Co.</strong><br>
+        715 Hollis Creek Road, Unit B<br>
+        Asheville, NC 28801<br>
+        <a href="mailto:hello@potteringlane.com">hello@potteringlane.com</a><br>
+        <a href="tel:+18285550167">(828) 555-0167</a><br>
+        Mon–Fri, 8:30 AM–5:30 PM ET; Sat, 9:00 AM–1:00 PM ET
+      </address>
+    </div>
+
+    <div class="pl-footer__links">
+      <div>
+        <h2>Shop</h2>
+        <ul>
+          <li><a href="/shop.html">All products</a></li>
+          <li><a href="/shop.html?category=sit-and-kneel">Sit &amp; Kneel</a></li><li><a href="/shop.html?category=tools-in-hand">Tools in Hand</a></li><li><a href="/shop.html?category=beds-and-pots">Beds &amp; Pots</a></li><li><a href="/shop.html?category=watching-and-watering">Watching &amp; Watering</a></li>
+          <li><a href="/cart.html">Your cart</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Help</h2>
+        <ul>
+          <li><a href="/contact.html">Contact us</a></li>
+          <li><a href="/faq.html">Frequently asked questions</a></li>
+          <li><a href="/about.html">About Pottering Lane</a></li>
+          <li><a href="/policies/shipping.html">Shipping Policy</a></li>
+          <li><a href="/policies/refund-returns.html">Refund &amp; Return Policy</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Legal</h2>
+        <ul>
+          <li><a href="/policies/shipping.html">Shipping Policy</a></li><li><a href="/policies/refund-returns.html">Refund &amp; Return Policy</a></li><li><a href="/policies/privacy.html">Privacy Policy</a></li><li><a href="/policies/terms.html">Terms of Service</a></li><li><a href="/policies/accessibility.html">Accessibility Statement</a></li>
+          <li><a href="/policies/privacy.html#do-not-sell">Do Not Sell or Share My Personal Information</a></li>
+          <li><a href="/credits.html">Photo credits</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap pl-footer__legal">
+    <p>© 2026 Pottering Lane Garden Co. Prices in US dollars. We ship within the United States only.
+       Policies effective August 18, 2026.</p>
+    <p>Product photographs are used under Creative Commons licences —
+       <a href="/credits.html">see the photo credits</a>.</p>
+  </div>
+</footer>
+<div class="pl-cookie" role="region" aria-label="Cookie notice" data-cookie hidden>
+  <p>We use a small number of cookies to keep your cart and to count visits. We do not use advertising
+     cookies and we do not sell or share personal information. Read the
+     <a href="/policies/privacy.html">Privacy Policy</a>.</p>
+  <button class="pl-btn pl-btn--small" type="button" data-cookie-dismiss>Got it</button>
+</div>
+
+<script src="/assets/js/main.js" defer></script>
+</body>
+</html>

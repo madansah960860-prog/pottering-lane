@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Checkout — Pottering Lane Garden Co.</title>
+<meta name="description" content="Complete your Pottering Lane order. Item prices, shipping and the tax position are all shown before payment.">
+<link rel="canonical" href="https://www.potteringlane.com/checkout.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Pottering Lane Garden Co.">
+<meta property="og:title" content="Checkout — Pottering Lane Garden Co.">
+<meta property="og:description" content="Complete your Pottering Lane order. Item prices, shipping and the tax position are all shown before payment.">
+<meta property="og:url" content="https://www.potteringlane.com/checkout.html">
+<meta property="og:image" content="https://www.potteringlane.com/assets/images/hero.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Checkout — Pottering Lane Garden Co.">
+<meta name="twitter:description" content="Complete your Pottering Lane order. Item prices, shipping and the tax position are all shown before payment.">
+<meta name="theme-color" content="#3C5236">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style"
+  href="https://fonts.googleapis.com/css2?family=Lora:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap"
+  onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Lora:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap"></noscript>
+<link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+<header class="pl-head">
+  <div class="pl-head__strip">
+    <div class="wrap pl-head__strip-inner">
+      <p>Free standard shipping on US orders over $75 · 45 days returns</p>
+      <p>Questions? <a href="tel:+18285550167">(828) 555-0167</a> · Mon–Fri, 8:30 AM–5:30 PM ET; Sat, 9:00 AM–1:00 PM ET</p>
+    </div>
+  </div>
+
+  <div class="wrap pl-head__inner">
+    <button class="pl-menu" type="button" aria-expanded="false" aria-controls="sitenav">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>
+      <span class="pl-menu__label">Menu</span>
+    </button>
+
+    <nav class="pl-nav pl-nav--split" id="sitenav" aria-label="Main">
+      <ul class="pl-nav__list pl-nav__list--left"><li><a class="pl-nav__link" href="/index.html">Home</a></li><li><a class="pl-nav__link" href="/shop.html">Shop</a></li><li><a class="pl-nav__link" href="/about.html">About us</a></li></ul>
+
+      <a class="pl-logo" href="/index.html">
+        <svg class="pl-logo__mark" viewBox="0 0 40 40" aria-hidden="true" focusable="false">
+<path d="M6 34C6 20 14 10 34 7c-1 20-12 28-28 27z" fill="#5E7B55"/>
+<path d="M7 35C14 27 22 21 30 17" stroke="#B0512F" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+</svg>
+        <span class="pl-logo__text">Pottering&nbsp;Lane<span>Garden Co.</span></span>
+      </a>
+
+      <ul class="pl-nav__list pl-nav__list--right"><li><a class="pl-nav__link" href="/faq.html">FAQ</a></li><li><a class="pl-nav__link" href="/contact.html">Contact</a></li><li><a class="pl-nav__link" href="/cart.html">Cart</a></li>
+        <li class="pl-nav__cartcount"><span data-cart-count aria-live="polite">0 items</span></li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="pl-chiprail">
+  <div class="wrap">
+    <ul class="pl-chiprail__list">
+      <li><a class="pl-chip" href="/shop.html">All products</a></li>
+      <li><a class="pl-chip" href="/shop.html?category=sit-and-kneel">Sit &amp; Kneel</a></li><li><a class="pl-chip" href="/shop.html?category=tools-in-hand">Tools in Hand</a></li><li><a class="pl-chip" href="/shop.html?category=beds-and-pots">Beds &amp; Pots</a></li><li><a class="pl-chip" href="/shop.html?category=watching-and-watering">Watching &amp; Watering</a></li>
+    </ul>
+  </div>
+</div>
+</header>
+<main id="main">
+
+<section class="section">
+  <div class="wrap">
+    <h1>Checkout</h1>
+    <p class="lede">Every charge is listed below before you pay. There are no handling fees, service fees
+    or surcharges.</p>
+
+    <!-- The empty state is the DEFAULT rendered state, and the cart layout below is what
+         JavaScript reveals. The other way round costs a large layout shift: both blocks
+         hidden at parse time means the footer paints high on the page and is then pushed
+         down the moment the script runs. It also degrades honestly — the cart lives in
+         localStorage, so without JavaScript there is genuinely nothing in it. -->
+    <div class="pl-empty" data-cart-empty>
+      <div class="pl-panel">
+        <h2>Your cart is empty</h2>
+        <p>Add something to your cart first and the checkout will open.</p>
+        <a class="pl-btn pl-btn--solid" href="/shop.html">Go to the shop</a>
+      </div>
+    </div>
+
+    <div class="pl-cartlayout" data-cart-layout hidden>
+      <form data-checkout novalidate>
+        <fieldset class="pl-fieldset">
+          <legend>Contact</legend>
+          <div class="pl-field">
+            <label for="email">Email address</label>
+            <span class="hint" id="email-hint">We use this only to send your order confirmation and shipping updates.</span>
+            <input id="email" name="email" type="email" autocomplete="email" aria-describedby="email-hint" required>
+          </div>
+          <div class="pl-field">
+            <label for="phone">Phone number (optional)</label>
+            <span class="hint" id="phone-hint">Only used if the carrier cannot find your address.</span>
+            <input id="phone" name="phone" type="tel" autocomplete="tel" aria-describedby="phone-hint">
+          </div>
+          <p class="meta-line"><strong>Notice at collection:</strong> we collect your name, address, email
+          and optional phone number to fulfil this order, and your payment details go straight to our
+          payment processor. We do not sell or share personal information. See the
+          <a href="/policies/privacy.html">Privacy Policy</a>.</p>
+        </fieldset>
+
+        <fieldset class="pl-fieldset">
+          <legend>Shipping address</legend>
+          <p class="meta-line">We ship within the United States only.</p>
+          <div class="pl-cols2">
+            <div class="pl-field">
+              <label for="firstName">First name</label>
+              <input id="firstName" name="firstName" autocomplete="given-name" required>
+            </div>
+            <div class="pl-field">
+              <label for="lastName">Last name</label>
+              <input id="lastName" name="lastName" autocomplete="family-name" required>
+            </div>
+          </div>
+          <div class="pl-field">
+            <label for="address1">Street address</label>
+            <input id="address1" name="address1" autocomplete="address-line1" required>
+          </div>
+          <div class="pl-field">
+            <label for="address2">Apartment, suite or unit (optional)</label>
+            <input id="address2" name="address2" autocomplete="address-line2">
+          </div>
+          <div class="pl-cols3">
+            <div class="pl-field">
+              <label for="city">City or town</label>
+              <input id="city" name="city" autocomplete="address-level2" required>
+            </div>
+            <div class="pl-field">
+              <label for="state">State</label>
+              <select id="state" name="state" autocomplete="address-level1" required>
+                <option value="">Choose a state</option>
+                <option value="AL">AL</option><option value="AK">AK</option><option value="AZ">AZ</option><option value="AR">AR</option><option value="CA">CA</option><option value="CO">CO</option><option value="CT">CT</option><option value="DE">DE</option><option value="DC">DC</option><option value="FL">FL</option><option value="GA">GA</option><option value="HI">HI</option><option value="ID">ID</option><option value="IL">IL</option><option value="IN">IN</option><option value="IA">IA</option><option value="KS">KS</option><option value="KY">KY</option><option value="LA">LA</option><option value="ME">ME</option><option value="MD">MD</option><option value="MA">MA</option><option value="MI">MI</option><option value="MN">MN</option><option value="MS">MS</option><option value="MO">MO</option><option value="MT">MT</option><option value="NE">NE</option><option value="NV">NV</option><option value="NH">NH</option><option value="NJ">NJ</option><option value="NM">NM</option><option value="NY">NY</option><option value="NC">NC</option><option value="ND">ND</option><option value="OH">OH</option><option value="OK">OK</option><option value="OR">OR</option><option value="PA">PA</option><option value="RI">RI</option><option value="SC">SC</option><option value="SD">SD</option><option value="TN">TN</option><option value="TX">TX</option><option value="UT">UT</option><option value="VT">VT</option><option value="VA">VA</option><option value="WA">WA</option><option value="WV">WV</option><option value="WI">WI</option><option value="WY">WY</option>
+              </select>
+            </div>
+            <div class="pl-field">
+              <label for="zip">ZIP code</label>
+              <input id="zip" name="zip" inputmode="numeric" autocomplete="postal-code" required>
+            </div>
+          </div>
+          <div class="pl-field">
+            <label for="notes">Delivery notes (optional)</label>
+            <span class="hint" id="notes-hint">For example: leave in the porch, the side gate is unlocked.</span>
+            <textarea id="notes" name="notes" rows="3" aria-describedby="notes-hint"></textarea>
+          </div>
+        </fieldset>
+
+        <fieldset class="pl-fieldset">
+          <legend>Shipping method</legend>
+          <label class="pl-radio">
+            <input type="radio" name="shipping" value="standard" checked data-shipping>
+            <span>
+              <span class="pl-radio__label">Standard shipping — <span data-ship-price="standard">$7.95</span></span>
+              <span class="pl-radio__note">We ship within 1–3 business days; the carrier then takes 5–8 business days.</span>
+            </span>
+          </label><label class="pl-radio">
+            <input type="radio" name="shipping" value="expedited" data-shipping>
+            <span>
+              <span class="pl-radio__label">Expedited shipping — <span data-ship-price="expedited">$16.95</span></span>
+              <span class="pl-radio__note">We ship within 1–3 business days; the carrier then takes 2–3 business days.</span>
+            </span>
+          </label>
+        </fieldset>
+
+        <button class="pl-btn pl-btn--solid pl-btn--block" type="submit">Review my order</button>
+
+        <div class="pl-review" data-review hidden>
+          <h2 class="pl-h3">Order review</h2>
+          <p data-review-address></p>
+          <p data-review-shipping></p>
+
+          <!-- ==================================================================
+               PAYMENT INTEGRATION POINT
+
+               Mount the payment processor here — Stripe Payment Element, PayPal
+               Buttons, or a Shopify Buy Button. It must:
+
+                 1. Receive the server-recalculated total. Never trust the amount
+                    computed in this browser.
+                 2. Add sales tax for the delivery address before charging. The
+                    figure shown is deliberately labelled "total before tax" until
+                    that calculation exists.
+                 3. Create the order only after the processor confirms the payment,
+                    then redirect to a real confirmation page.
+                 4. Run over HTTPS with a valid certificate — Google Merchant Center
+                    requires a secured checkout.
+
+               Until a processor is connected, this build must never show a success
+               or confirmation screen. Claiming an order was placed when no payment
+               was taken is a Google Ads misrepresentation violation and an FTC
+               deception issue.
+               ================================================================== -->
+
+          <div class="pl-note pl-note--white">
+            <p><strong>No payment processor is connected to this site yet.</strong> Nothing has been
+            charged and no order has been placed. To buy any of these items today, call
+            (828) 555-0167 during Mon–Fri, 8:30 AM–5:30 PM ET; Sat, 9:00 AM–1:00 PM ET or email
+            <a href="mailto:hello@potteringlane.com">hello@potteringlane.com</a>.</p>
+          </div>
+        </div>
+      </form>
+
+      <aside class="pl-summary" aria-label="Order summary">
+        <h2 class="pl-h3">Your order</h2>
+        <ul class="pl-minilist" data-cart-list></ul>
+        <div class="pl-sumrow"><span>Subtotal</span><strong data-subtotal>$0.00</strong></div>
+        <div class="pl-sumrow"><span>Shipping<br><span class="meta-line" data-ship-label>Standard shipping</span></span><strong data-shipping-cost>$0.00</strong></div>
+        <div class="pl-sumrow"><span>Sales tax</span><span class="meta-line">Added at the payment step from your delivery address</span></div>
+        <div class="pl-sumrow pl-sumrow--total"><span>Total before tax</span><strong data-total>$0.00</strong></div>
+        <p class="meta-line">By placing an order you accept our <a href="/policies/terms.html">Terms of
+        Service</a>. See the <a href="/policies/refund-returns.html">Refund &amp; Return Policy</a>
+        (45 days from delivery), the <a href="/policies/shipping.html">Shipping Policy</a>
+        and the <a href="/policies/privacy.html">Privacy Policy</a>. Questions before you order?
+        <a href="/contact.html">Contact us</a>.</p>
+      </aside>
+    </div>
+  </div>
+</section>
+
+</main>
+<footer class="pl-footer">
+  <svg class="pl-divider" viewBox="0 0 240 24" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+<path d="M0 12h72M168 12h72" stroke="#B0512F" stroke-width="1.5"/>
+<path d="M104 12c0-7 6-11 16-11-1 7-7 11-16 11zM136 12c0 7-6 11-16 11 1-7 7-11 16-11z" fill="#5E7B55"/>
+</svg>
+  <div class="wrap pl-footer__cols">
+    <div class="pl-footer__brand">
+      <p class="pl-footer__name">Pottering Lane Garden Co.</p>
+      <p class="pl-footer__tag">Garden tools for people who would rather sit down to weed</p>
+      <address>
+        <strong>Pottering Lane Garden Co.</strong><br>
+        715 Hollis Creek Road, Unit B<br>
+        Asheville, NC 28801<br>
+        <a href="mailto:hello@potteringlane.com">hello@potteringlane.com</a><br>
+        <a href="tel:+18285550167">(828) 555-0167</a><br>
+        Mon–Fri, 8:30 AM–5:30 PM ET; Sat, 9:00 AM–1:00 PM ET
+      </address>
+    </div>
+
+    <div class="pl-footer__links">
+      <div>
+        <h2>Shop</h2>
+        <ul>
+          <li><a href="/shop.html">All products</a></li>
+          <li><a href="/shop.html?category=sit-and-kneel">Sit &amp; Kneel</a></li><li><a href="/shop.html?category=tools-in-hand">Tools in Hand</a></li><li><a href="/shop.html?category=beds-and-pots">Beds &amp; Pots</a></li><li><a href="/shop.html?category=watching-and-watering">Watching &amp; Watering</a></li>
+          <li><a href="/cart.html">Your cart</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Help</h2>
+        <ul>
+          <li><a href="/contact.html">Contact us</a></li>
+          <li><a href="/faq.html">Frequently asked questions</a></li>
+          <li><a href="/about.html">About Pottering Lane</a></li>
+          <li><a href="/policies/shipping.html">Shipping Policy</a></li>
+          <li><a href="/policies/refund-returns.html">Refund &amp; Return Policy</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Legal</h2>
+        <ul>
+          <li><a href="/policies/shipping.html">Shipping Policy</a></li><li><a href="/policies/refund-returns.html">Refund &amp; Return Policy</a></li><li><a href="/policies/privacy.html">Privacy Policy</a></li><li><a href="/policies/terms.html">Terms of Service</a></li><li><a href="/policies/accessibility.html">Accessibility Statement</a></li>
+          <li><a href="/policies/privacy.html#do-not-sell">Do Not Sell or Share My Personal Information</a></li>
+          <li><a href="/credits.html">Photo credits</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap pl-footer__legal">
+    <p>© 2026 Pottering Lane Garden Co. Prices in US dollars. We ship within the United States only.
+       Policies effective August 18, 2026.</p>
+    <p>Product photographs are used under Creative Commons licences —
+       <a href="/credits.html">see the photo credits</a>.</p>
+  </div>
+</footer>
+<div class="pl-cookie" role="region" aria-label="Cookie notice" data-cookie hidden>
+  <p>We use a small number of cookies to keep your cart and to count visits. We do not use advertising
+     cookies and we do not sell or share personal information. Read the
+     <a href="/policies/privacy.html">Privacy Policy</a>.</p>
+  <button class="pl-btn pl-btn--small" type="button" data-cookie-dismiss>Got it</button>
+</div>
+
+<script src="/assets/js/main.js" defer></script>
+</body>
+</html>
